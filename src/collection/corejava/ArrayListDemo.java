@@ -16,5 +16,9 @@ public class ArrayListDemo {
 		}
 
 	}
+	
+	public void test() {
+		System.out.println("This is test method for git push test");
+	}
 
 }
