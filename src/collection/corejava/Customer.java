@@ -4,6 +4,7 @@ public class Customer {
 
 	private String customerName;
 	private String[] customerAddress;
+	private double phoneNumber;
 
 	public String getCustomerName() {
 		return customerName;
