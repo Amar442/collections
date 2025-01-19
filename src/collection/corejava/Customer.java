@@ -6,6 +6,14 @@ public class Customer {
 	private String[] customerAddress;
 	private double phoneNumber;
 
+	public double getPhoneNumber() {
+		return phoneNumber;
+	}
+
+	public void setPhoneNumber(double phoneNumber) {
+		this.phoneNumber = phoneNumber;
+	}
+
 	public String getCustomerName() {
 		return customerName;
 	}
